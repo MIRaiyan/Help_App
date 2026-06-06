@@ -1,4 +1,4 @@
-# Help Homeless
+# Help App
 
 Watch "Showcase.mkv" to see how it works. 
 
