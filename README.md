@@ -1,6 +1,6 @@
-# help
+# Help Homeless
 
-A new Flutter project.
+Watch "Showcase.mkv" to see how it works. 
 
 ## Getting Started
 
